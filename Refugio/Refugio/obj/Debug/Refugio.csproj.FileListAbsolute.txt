@@ -1,0 +1,17 @@
+C:\Users\71359204\Desktop\Apuntes\Sistemas Distribuidos\IPO_RefugioAnimal\Refugio\Refugio\bin\Debug\Refugio.exe.config
+C:\Users\71359204\Desktop\Apuntes\Sistemas Distribuidos\IPO_RefugioAnimal\Refugio\Refugio\bin\Debug\Refugio.exe
+C:\Users\71359204\Desktop\Apuntes\Sistemas Distribuidos\IPO_RefugioAnimal\Refugio\Refugio\bin\Debug\Refugio.pdb
+C:\Users\71359204\Desktop\Apuntes\Sistemas Distribuidos\IPO_RefugioAnimal\Refugio\Refugio\obj\Debug\Refugio.csproj.AssemblyReference.cache
+C:\Users\71359204\Desktop\Apuntes\Sistemas Distribuidos\IPO_RefugioAnimal\Refugio\Refugio\obj\Debug\loginWindow.g.cs
+C:\Users\71359204\Desktop\Apuntes\Sistemas Distribuidos\IPO_RefugioAnimal\Refugio\Refugio\obj\Debug\App.g.cs
+C:\Users\71359204\Desktop\Apuntes\Sistemas Distribuidos\IPO_RefugioAnimal\Refugio\Refugio\obj\Debug\Refugio_MarkupCompile.cache
+C:\Users\71359204\Desktop\Apuntes\Sistemas Distribuidos\IPO_RefugioAnimal\Refugio\Refugio\obj\Debug\Refugio_MarkupCompile.lref
+C:\Users\71359204\Desktop\Apuntes\Sistemas Distribuidos\IPO_RefugioAnimal\Refugio\Refugio\obj\Debug\loginWindow.baml
+C:\Users\71359204\Desktop\Apuntes\Sistemas Distribuidos\IPO_RefugioAnimal\Refugio\Refugio\obj\Debug\Refugio.g.resources
+C:\Users\71359204\Desktop\Apuntes\Sistemas Distribuidos\IPO_RefugioAnimal\Refugio\Refugio\obj\Debug\Refugio.Properties.Resources.resources
+C:\Users\71359204\Desktop\Apuntes\Sistemas Distribuidos\IPO_RefugioAnimal\Refugio\Refugio\obj\Debug\Refugio.csproj.GenerateResource.cache
+C:\Users\71359204\Desktop\Apuntes\Sistemas Distribuidos\IPO_RefugioAnimal\Refugio\Refugio\obj\Debug\Refugio.csproj.CoreCompileInputs.cache
+C:\Users\71359204\Desktop\Apuntes\Sistemas Distribuidos\IPO_RefugioAnimal\Refugio\Refugio\obj\Debug\Refugio.exe
+C:\Users\71359204\Desktop\Apuntes\Sistemas Distribuidos\IPO_RefugioAnimal\Refugio\Refugio\obj\Debug\Refugio.pdb
+C:\Users\71359204\Desktop\Apuntes\Sistemas Distribuidos\IPO_RefugioAnimal\Refugio\Refugio\obj\Debug\Home.g.cs
+C:\Users\71359204\Desktop\Apuntes\Sistemas Distribuidos\IPO_RefugioAnimal\Refugio\Refugio\obj\Debug\Home.baml
